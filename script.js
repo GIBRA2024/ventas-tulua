@@ -1,7 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Ventas Tulua Cervalle
+FN:Ventas Tuluá Cervalle
 TEL:+57 3118814976
 EMAIL;TYPE=WORK: ventastulua@cervalle.com 
 END:VCARD`;
